@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rp6xeX8KJwxK9tstZT2YixDrl41HLTGYUwELerIyhdST38LsaoCgu8FK/ErAtuXn1gg5NH0tgEsq12GDbaVTTg==",
+  "success": true,
+  "projectFilePath": "D:\\WorkPractice\\DellMe\\Delme\\backend\\DellMeBackend\\Managers\\DellMee.Backend.Manager.User\\DellMee.Backend.Manager.User.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Potter\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Potter\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Potter\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Potter\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Potter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Potter\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
