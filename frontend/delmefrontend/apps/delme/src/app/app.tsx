@@ -5,7 +5,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="delme" />
+      <NxWelcome title="delme nice to have you" />
       <div />
     </>
   );
